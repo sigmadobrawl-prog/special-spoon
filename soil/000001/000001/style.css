@@ -5,3 +5,17 @@
 html {
     scroll-behavior: smooth
 }
+
+.main/t {
+    font-weight: bold;
+    margin: 40px;
+    margin-bottom: auto;
+    font-size: 115%;
+}
+
+.main/p {
+    font-weight: bold;
+    margin: 50px;
+    margin-top: auto;
+    font-size: 115%;
+}
