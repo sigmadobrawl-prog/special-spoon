@@ -9,13 +9,14 @@ html {
 .main-t {
     font-weight: bold;
     margin: 30px;
+    margin-left: 200px;
     margin-bottom: auto;
     font-size: 115%;
 }
 
 .main-p {
     font-weight: bold;
-    margin: 50px;
+    margin: 250px;
     margin-top: auto;
     font-size: 115%;
 }
